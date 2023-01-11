@@ -193,7 +193,7 @@ img {
 
 .category-title li{
     padding: 0 10px;
-    font-size: 20px;
+    font-size: 22px;
 }
 
 .category-title span{
@@ -251,7 +251,7 @@ img {
 }
 
 .post-content h2{
-    font-size: 22px;
+    /* font-size: 22px; */
     padding: 0.5px 0;
     font-weight: 400;
     color: black;
@@ -284,7 +284,7 @@ img {
 }
 
 .education .box-container .box .year{
-    font-size: 2rem;
+    font-size: 1.5em;
     color:black;
     position: relative;
 }
@@ -300,16 +300,16 @@ img {
 }
 
 .education .box-container .box h3{
-    font-size: 2rem;
+    font-size:30px;
     color:black;
     margin-top: -7px;
-    margin-bottom: -5px;
+    /* margin-bottom: -2px; */
     margin-left: 2px
 
 }
 
 .education .box-container .box p{
-    font-size: 1.3rem;
+    font-size: 1.5em;
     color:#black;
 }
 
@@ -447,7 +447,7 @@ footer span {
 
     .header-text {
         left: 200px;
-        font-size: 2.25em;
+        font-size: 2em;
     }
 }
 
@@ -499,3 +499,4 @@ footer span {
     opacity: 0;
   }
 }
+
